@@ -23,9 +23,11 @@ Frente da escola JK  por outro ângulo (foto: Brendo Felipe)
 <img src="./images/jk/escola-jk-2.png" style="width:300px;"/>
 
 A capela (foto: Antonio Alves)
+
 <img src="./images/jk/capela-jk.png" style="width:300px;"/>
 
 A capela (foto: Antonio Alves)
+
 <img src="./images/jk/sala-de-aula-jk.jpg" style="width:300px;"/>
 
 Eu na hora do intervalo (eu tinha o cabelo alisado e usava óculos 🤓😝)
