@@ -37,3 +37,19 @@ Eu na hora do intervalo (eu tinha o cabelo alisado e usava óculos 🤓😝)
 💡[Mais sobre a escola JK](https://www.google.com/maps/place/Escola+Estadual+Agroindustrial+Juscelino+Kubitscheck+de+Oliveira/@-1.3646688,-48.3029693,17z/data=!3m1!4b1!4m6!3m5!1s0x92a458a15daea677:0x56cb64e199c02000!8m2!3d-1.3646688!4d-48.3029693!16s%2Fg%2F11b6_dzw29?entry=ttu)
 
 💡[Saiba quem foi a pessoa JK](https://pt.wikipedia.org/wiki/Juscelino_Kubitschek)
+
+## Programar sem computador
+
+Assim que eu entrei na escola, ela havia perdido seu laboratório de informática, então, infelizmente, as aulas de programação eram realizadas no papel, mas, isso não era um impedimento para estudar.
+
+### Meu primeiro notebook
+
+Dada a situação de que eu não tinha um notebook e estava programando no papel, meu tio Romeu Ribeiro, minha prima Samara e minha tia Vana me presentearam com um notebook usado.
+
+Tio Romeu e família
+<img src="./images/notebook/tio-romeu-e-familia.jpg" style="width:300px;"/>
+
+Foto real do meu primeiro notebook, era um Semp Toshiba
+<img src="./images/notebook/primeiro-notebook-amanda.jpg" style="width:300px;"/>
+
+Na época meu tio trabalhava como professor em uma faculdade, hoje ele trabalha como [Administrador  no Ministério do Petróleo em Angola na África](https://www.facebook.com/mirempetangola/posts/897893974248266/) e também é auditor fiscal em uma empresa.
