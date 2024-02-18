@@ -47,9 +47,11 @@ Assim que eu entrei na escola, ela havia perdido seu laboratório de informátic
 Dada a situação de que eu não tinha um notebook e estava programando no papel, meu tio Romeu Ribeiro, minha prima Samara e minha tia Vana me presentearam com um notebook usado.
 
 Tio Romeu e família
+
 <img src="./images/notebook/tio-romeu-e-familia.jpg" style="width:300px;"/>
 
 Foto real do meu primeiro notebook, era um Semp Toshiba
+
 <img src="./images/notebook/primeiro-notebook-amanda.jpg" style="width:300px;"/>
 
 Na época meu tio trabalhava como professor em uma faculdade, hoje ele trabalha como [Administrador  no Ministério do Petróleo em Angola na África](https://www.facebook.com/mirempetangola/posts/897893974248266/) e também é auditor fiscal em uma empresa.
