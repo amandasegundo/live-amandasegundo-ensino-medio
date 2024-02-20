@@ -132,7 +132,7 @@ Um fato curioso é que a data de aniversário do Vitor é no dia 5 de outubro, m
 
 <img src="./images/elite/vitor-e-eu.jpg" style="width:300px;"/>
 
-### [Lucienne Xerfan]() (Engenharia Mecânica)
+### [Lucienne Xerfan](https://www.linkedin.com/in/luciennexerfan/) (Engenharia Mecânica)
 
 Depois de mim, mulher, quem se interessava por informática ela a minha amiga Lucienne.
 
