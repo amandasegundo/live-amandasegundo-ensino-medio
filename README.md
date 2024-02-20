@@ -132,3 +132,22 @@ Um fato curioso é que a data de aniversário do Vitor é no dia 5 de outubro, m
 
 <img src="./images/elite/vitor-e-eu.jpg" style="width:300px;"/>
 
+### [Lucienne Xerfan]() (Engenharia Mecânica)
+
+Depois de mim, mulher, quem se interessava por informática ela a minha amiga Lucienne.
+
+A gente conversava sobre tecnologia e sobre a vida no geral.
+
+Nos encontramos em dezembro de 2023 na Vila Germânica em Blumenau.
+
+<img src="./images/lucienne/lucienne-e-eu.jpg" style="width:300px;"/>
+
+Não tenho fotos com a Lucienne naquela época, mas tenho esse registro dela com alguns membros da Elite:
+
+<img src="./images/lucienne/lucienne-na-feira.jpg" style="width:300px;"/>
+
+## Gostou da Live?
+
+☕️ Compre um café para mim:
+
+PIX: d29ce6e0-7c0d-4fc2-ab12-3f8e1815258a
