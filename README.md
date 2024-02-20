@@ -112,11 +112,11 @@ Foi por causa dele que eu conheci o Einstein e soube que ele era alemão, então
 
 #### Julio Silva (Engenharia Ambiental)
 
-O Julio gostava de formatar computadores fazer manutenção de redes. Ele tinha um cyber e jogávamos Counter-Strike lá. Ele também gostava muito de música e tinha até um violão.
+O Julio gostava de formatar computadores e gostava de fazer manutenção de redes. Ele tinha um cyber e jogávamos Counter-Strike lá. Ele também gostava muito de música e tinha até um violão.
 
 #### Vitor Moutinho (Engenharia de Software)
 
-O Vitor gostava de fazer manutenção de computadores, redes e de programação, ele dizia que a hackear os sistemas e combater os hackers, também gostava muito de redes sociais.
+O Vitor gostava de fazer manutenção de computadores, gostava de Redes e de programação, ele dizia que a hackear os sistemas e combater os [hackers](https://pt.wikipedia.org/wiki/Hacker), também gostava muito de redes sociais.
 
-Um fato curioso é a data de aniversário do Vitor é 5 de outubro, mesma data do falecimento do [Steve Jobs](https://pt.wikipedia.org/wiki/Steve_Jobs), lembramos bem dessa data pois não tivemos ânimos para comemorar o aniversário dele em 2011.
+Um fato curioso é que a data de aniversário do Vitor é no dia 5 de outubro, mesma data do falecimento do [Steve Jobs](https://pt.wikipedia.org/wiki/Steve_Jobs), lembramos bem dessa data pois não tivemos ânimos para comemorar o aniversário dele em 2011.
 
