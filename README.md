@@ -110,11 +110,11 @@ A gente gostava de disputar quem tirava a nota mais alta em matemática e gostá
 
 Foi por causa dele que eu conheci o Einstein e soube que ele era alemão, então eu pesquisei sobre a cultura alemã e gostei muito da forma que eles são organizados e planejados, foi por isso que eu tive a ideia de morar em Blumenau.
 
-#### Julio Silva
+#### Julio Silva (Engenharia Ambiental)
 
 O Julio gostava de formatar computadores fazer manutenção de redes. Ele tinha um cyber e jogávamos Counter-Strike lá. Ele também gostava muito de música e tinha até um violão.
 
-#### Vitor Moutinho
+#### Vitor Moutinho (Engenharia de Software)
 
 O Vitor gostava de fazer manutenção de computadores, redes e de programação, ele dizia que a hackear os sistemas e combater os hackers, também gostava muito de redes sociais.
 
