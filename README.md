@@ -98,6 +98,10 @@ Elite na feira de ciências em 2012:
 
 <img src="./images/elite/elite-2012.png" style="width:300px;"/>
 
+Logo da Elite:
+
+<img src="./images/elite/elite-logo.jpeg" style="width:300px;"/>
+
 #### Claudio Ferreira (Engenharia Elétrica Automobilística)
 
 O Cláudio gostava muito de mecânica e de jogar futebol. Ele era muito bem humorado e gostava de fazer piadas na sala, muito inteligente. 
