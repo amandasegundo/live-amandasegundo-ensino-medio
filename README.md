@@ -55,3 +55,29 @@ Foto real do meu primeiro notebook, era um Semp Toshiba
 <img src="./images/notebook/primeiro-notebook-amanda.jpg" style="width:300px;"/>
 
 Na época meu tio trabalhava como professor em uma faculdade, hoje ele trabalha como [Administrador  no Ministério do Petróleo em Angola na África](https://www.facebook.com/mirempetangola/posts/897893974248266/) e também é auditor fiscal em uma empresa.
+
+## Disciplinas interessantes
+
+Além de Programação, eu gostava das disciplinas de Banco de Dados, Desenvolvimento Web, Redes e Microinformática.
+
+### Aulas marcantes
+
+#### História dos computadores
+
+Ministrada pela professora Marciane Lopes essa aula foi muito marcante pois conheci o ENIAC, o primeiro computador da história e conheci a história por trás do primeiro algoritmo.
+
+O [ENIAC](https://pt.wikipedia.org/wiki/ENIAC) foi testado e programado por mulheres, mas grande parte dos créditos não foram dados a elas:
+
+<img src="./images/eniac/eniac-e-mulheres.png" style="width:300px;"/>
+
+A [Ada Lovelace](https://pt.wikipedia.org/wiki/Ada_Lovelace) foi a primeira pessoa a escrever um [algoritmo](https://pt.wikipedia.org/wiki/Algoritmo) a ser processado por um computador, considerada a primeira programadora da história:
+
+<img src="./images/ada-lovelace/ada-lovelace.jpg" style="width:300px;"/>
+
+#### Facebook
+
+Lembro em uma aula que o professor [Antônio Marcos](https://www.instagram.com/amarcos26/) exibiu o filme [A Rede Social](https://pt.wikipedia.org/wiki/A_Rede_Social) para a turma. O filme conta a história do [Facebook](https://pt.wikipedia.org/wiki/Facebook) e de [Mark Zuckerberg](https://pt.wikipedia.org/wiki/Facebook).
+
+Assim que eu entrei na escola, em 2010, já criei uma conta no Facebook, mas depois do filme eu fiquei fascinada por redes sociais:
+
+<img src="./images/a-rede-social/a-rede-social.png/" style="width:300px;"/>
