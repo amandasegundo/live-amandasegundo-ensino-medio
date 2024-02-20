@@ -81,3 +81,42 @@ Lembro em uma aula que o professor [Antônio Marcos](https://www.instagram.com/a
 Assim que eu entrei na escola, em 2010, já criei uma conta no Facebook, mas depois do filme eu fiquei fascinada por redes sociais:
 
 <img src="./images/a-rede-social/a-rede-social.png/" style="width:300px;"/>
+
+## Amigos Nerds
+
+### Elite
+
+Minha turma era a Informática 2010 A e eu fazia parte do grupinho de nerds chamado Elite (nada modestos).
+
+Esse grupo era formado por mim, Claudio Ferreira, Julio Gaia, Julio Silve e Vitor Moutinho, cada um seguiu com uma engenharia.
+
+Reunião da Elite em 2024:
+
+<img src="./images/elite/elite-2024.png" style="width:300px;"/>
+
+Elite na feira de ciências em 2012:
+
+<img src="./images/elite/elite-2012.png" style="width:300px;"/>
+
+#### Claudio Ferreira (Engenharia Elétrica Automobilística)
+
+O Cláudio gostava muito de mecânica e de jogar futebol. Ele era muito bem humorado e gostava de fazer piadas na sala, muito inteligente. 
+
+#### Julio Gaia (Engenharia da Computação)
+
+Ele gostava de física teórica, física experimental e astrofísica, e, era fã do Einstein.
+
+A gente gostava de disputar quem tirava a nota mais alta em matemática e gostávamos de resolver problemas de lógica.
+
+Foi por causa dele que eu conheci o Einstein e soube que ele era alemão, então eu pesquisei sobre a cultura alemã e gostei muito da forma que eles são organizados e planejados, foi por isso que eu tive a ideia de morar em Blumenau.
+
+#### Julio Silva
+
+O Julio gostava de formatar computadores fazer manutenção de redes. Ele tinha um cyber e jogávamos Counter-Strike lá. Ele também gostava muito de música e tinha até um violão.
+
+#### Vitor Moutinho
+
+O Vitor gostava de fazer manutenção de computadores, redes e de programação, ele dizia que a hackear os sistemas e combater os hackers, também gostava muito de redes sociais.
+
+Um fato curioso é a data de aniversário do Vitor é 5 de outubro, mesma data do falecimento do [Steve Jobs](https://pt.wikipedia.org/wiki/Steve_Jobs), lembramos bem dessa data pois não tivemos ânimos para comemorar o aniversário dele em 2011.
+
