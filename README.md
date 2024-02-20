@@ -64,7 +64,7 @@ Além de Programação, eu gostava das disciplinas de Banco de Dados, Desenvolvi
 
 #### História dos computadores
 
-Ministrada pela professora Marciane Lopes essa aula foi muito marcante pois conheci o ENIAC, o primeiro computador da história e conheci a história por trás do primeiro algoritmo.
+Ministrada pela professora [Marciane Lopes](https://www.instagram.com/marciane61/) essa aula foi muito marcante na minha vida, pois, conheci o ENIAC, o primeiro computador da história e conheci também a história por trás do primeiro algoritmo.
 
 O [ENIAC](https://pt.wikipedia.org/wiki/ENIAC) foi testado e programado por mulheres, mas grande parte dos créditos não foram dados a elas:
 
