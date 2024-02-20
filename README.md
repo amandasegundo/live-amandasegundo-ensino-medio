@@ -88,7 +88,7 @@ Assim que eu entrei na escola, em 2010, já criei uma conta no Facebook, mas dep
 
 Minha turma era a Informática 2010 A e eu fazia parte do grupinho de nerds chamado Elite (nada modestos).
 
-Esse grupo era formado por mim, Claudio Ferreira, Julio Gaia, Julio Silve e Vitor Moutinho, cada um seguiu com uma engenharia.
+Esse grupo era formado por mim, Claudio Ferreira, Julio Gaia, Julio Silva e Vitor Moutinho, cada um seguiu com uma engenharia.
 
 Reunião da Elite em 2024:
 
