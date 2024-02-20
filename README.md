@@ -102,11 +102,13 @@ Logo da Elite:
 
 <img src="./images/elite/elite-logo.jpeg" style="width:300px;"/>
 
-#### Claudio Ferreira (Engenharia Elétrica Automobilística)
+#### [Claudio Ferreira](https://www.instagram.com/claudio_ferreira2/) (Engenharia Elétrica Automobilística)]
 
-O Cláudio gostava muito de mecânica e de jogar futebol. Ele era muito bem humorado e gostava de fazer piadas na sala, muito inteligente. 
+O Cláudio gostava muito de mecânica e de jogar futebol. Ele era muito bem humorado e gostava de fazer piadas na sala, muito inteligente.
 
-#### Julio Gaia (Engenharia da Computação)
+<img src="./images/elite/claudio-e-eu.jpg" style="width:300px;"/>
+
+#### [Julio Gaia](https://www.linkedin.com/in/julio-pereira-gaia-ba024a137/) (Engenharia da Computação)
 
 Ele gostava de física teórica, física experimental e astrofísica, e, era fã do Einstein.
 
@@ -114,13 +116,19 @@ A gente gostava de disputar quem tirava a nota mais alta em matemática e gostá
 
 Foi por causa dele que eu conheci o Einstein e soube que ele era alemão, então eu pesquisei sobre a cultura alemã e gostei muito da forma que eles são organizados e planejados, foi por isso que eu tive a ideia de morar em Blumenau.
 
-#### Julio Silva (Engenharia Ambiental)
+<img src="./images/elite/julio-gaia-e-eu.jpg" style="width:300px;"/>
+
+#### [Julio Silva](https://www.instagram.com/juliosilva_jss/) (Engenharia Ambiental)
 
 O Julio gostava de formatar computadores e gostava de fazer manutenção de redes. Ele tinha um cyber e jogávamos Counter-Strike lá. Ele também gostava muito de música e tinha até um violão.
 
-#### Vitor Moutinho (Engenharia de Software)
+<img src="./images/elite/julio-silva-e-eu.png" style="width:300px;"/>
+
+#### [Vitor Moutinho](https://www.linkedin.com/in/vitor-moutinho-1844ab146/) (Engenharia de Software)
 
 O Vitor gostava de fazer manutenção de computadores, gostava de Redes e de programação, ele dizia que a hackear os sistemas e combater os [hackers](https://pt.wikipedia.org/wiki/Hacker), também gostava muito de redes sociais.
 
 Um fato curioso é que a data de aniversário do Vitor é no dia 5 de outubro, mesma data do falecimento do [Steve Jobs](https://pt.wikipedia.org/wiki/Steve_Jobs), lembramos bem dessa data pois não tivemos ânimos para comemorar o aniversário dele em 2011.
+
+<img src="./images/elite/vitor-e-eu.jpg" style="width:300px;"/>
 
